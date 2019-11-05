@@ -1,0 +1,17 @@
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Library.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.xml
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Library.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csprojAssemblyReference.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.OrderWin.resources
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.PedometerWin.resources
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.Properties.Resources.resources
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.CoreCompileInputs.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.CopyComplete
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.exe
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.pdb

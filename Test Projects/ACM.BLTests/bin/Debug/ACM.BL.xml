@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ACM.BL</name>
+    </assembly>
+    <members>
+        <member name="T:ACM.BL.Customer">
+            <summary>
+            Manages a single customer.
+            </summary>
+        </member>
+        <member name="M:ACM.BL.Customer.CalculatePercentOfGoalSteps(System.String,System.String)">
+            <summary>
+            Calculates the percent of the step goal reached.
+            </summary>
+        </member>
+        <member name="M:ACM.BL.Customer.CalculatePercentOfGoalSteps(System.Decimal,System.Decimal)">
+            <summary>
+            Calculates the percent of the step goal reached.
+            </summary>
+        </member>
+        <member name="M:ACM.BL.Customer.ValidateEmail">
+            <summary>
+            Validates the customer email address.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:ACM.BL.InventoryRepository">
+            <summary>
+            Manages the data access for inventory.
+            </summary>
+        </member>
+        <member name="T:ACM.BL.Order">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ACM.BL.OrderController">
+            <summary>
+            Manages all order processing features.
+            </summary>
+        </member>
+        <member name="M:ACM.BL.OrderController.#ctor">
+            <summary>
+            Constructs an instance of the order controller
+            </summary>
+        </member>
+        <member name="M:ACM.BL.OrderController.PlaceOrder(ACM.BL.Customer,ACM.BL.Order,ACM.BL.Payment,System.Boolean,System.Boolean)">
+            <summary>
+            Places a customer's order.
+            </summary>
+        </member>
+        <member name="T:ACM.BL.OrderRepository">
+            <summary>
+            Repository for orders
+            </summary>
+        </member>
+        <member name="T:ACM.BL.PaymentType">
+            <summary>
+            Type of payments accepted by the system
+            </summary>
+        </member>
+        <member name="T:ACM.BL.Payment">
+            <summary>
+            Manages a payment.
+            </summary>
+        </member>
+        <member name="M:ACM.BL.Payment.ProcessPayment">
+            <summary>
+            Process a payment for an order
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BLTests.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BLTests.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.Library.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.xml
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.Library.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.csprojAssemblyReference.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CoreCompileInputs.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CopyComplete
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.pdb

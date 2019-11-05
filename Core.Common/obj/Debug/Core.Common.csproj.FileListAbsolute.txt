@@ -1,0 +1,6 @@
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\bin\Debug\ACM.Library.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\bin\Debug\ACM.Library.pdb
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\ACM.Library.dll
+C:\Users\BIM2842\Desktop\7-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\ACM.Library.pdb
